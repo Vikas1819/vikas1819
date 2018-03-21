@@ -1,0 +1,51 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 32px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(121,149,117);
+}
+
+h2 {
+	font-size: 56px;
+}
+
+
+.hero {
+	padding: 300px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("/../web/img/1.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+
+p {
+  font-size: 2rem;
+}
+
+.hero a {
+	color:  rgb(121,149,117);
+	font-size: 1.25em;
+	text-decoration: none;
+}
+.field {
+	padding : 10px 0;
+	color : ;
+	font-size: 1.25em;
+	text-decoration: none;
+	
+}
+#footer {
+	padding : 20px 0;
+	margin: 10px;
+	 background-image: url("/../web/img/oldcar.jpg");
+     background-size: inline;
+	font-size: 1 rem;
+}
